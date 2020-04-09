@@ -71,6 +71,7 @@ class testSelectionSort {
     }
     
     public void testMixed(){
+	// Tom changes
     	int[] arr = new int[5];
         arr[0] = -8;
         arr[1] = 0;
@@ -99,6 +100,7 @@ class testSelectionSort {
     }
     
     public void testDuplicates(){
+	//Tom changes
     	int[] arr = new int[5];
         arr[0] = 7;
         arr[1] = 2;
